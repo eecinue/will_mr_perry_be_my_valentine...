@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "really...?",
+    "really ah :(",
+    "my prince my pumpkin my baby boy pleaseee?",
+    "pooookieeeeeee pleaseeeeeee",
+    "how can how can!!! say yes >:(",
+    "now i'm sad....",
+    "now i'm very sad....",
+    "now i'm very very very sad...",
+    "u say no one more time i spank u ah naughty",
+    "SPANK SPANK SPANK"
 ];
 
 let messageIndex = 0;
